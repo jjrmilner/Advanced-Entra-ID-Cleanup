@@ -41,7 +41,7 @@ This script addresses critical security and compliance challenges in Microsoft 3
 
 1. Clone or download the script:
 ```powershell
-git clone https://github.com/yourusername/AdvancedStaleUsersCleanup.git
+git clone https://github.com/jjrmilner/AdvancedStaleUsersCleanup.git
 ```
 
 2. Install required modules:
@@ -168,7 +168,7 @@ Comprehensive report including:
 ## Guest Lifecycle Management
 
 The script implements a zero-trust approach for external users:
-
+ne
 1. **0-179 days**: Active guest period
 2. **180-269 days**: Disabled (reversible)
 3. **270+ days**: Archived to security group
