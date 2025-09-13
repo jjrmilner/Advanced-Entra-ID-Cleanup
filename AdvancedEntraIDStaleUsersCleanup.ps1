@@ -198,7 +198,6 @@
     either express or implied. See the Apache License for the specific language
     governing permissions and limitations under the License.
 
-
 .AUTHOR
     JJ Milner
     Blog: https://jjrmilner.substack.com
