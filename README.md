@@ -226,26 +226,40 @@ ne
 - Script flags these for manual review
 - Does not disable accounts with stat errors
 
-## 📄 License
+---
 
-Licensed under the Apache License, Version 2.0 (the "Apache License") with Commons Clause Restriction.
+## 📄 **License:** Apache 2.0 (see LICENSE)  
+**Additional restriction:** Commons Clause (see COMMONS-CLAUSE.txt)
 
-You may not use this file except in compliance with the Apache License. You may obtain a copy of the Apache License at: http://www.apache.org/licenses/LICENSE-2.0
+**SPDX headers**
+- Each source file includes:  
+  `SPDX-License-Identifier: Apache-2.0 WITH Commons-Clause`
 
-This Software is provided under the Apache License with the following Commons Clause Restriction:
+---
 
-"The license granted herein does not include, and the Apache License does not grant to you, the right to Sell the Software. For purposes of this restriction, "Sell" means practicing any or all of the rights granted to you under the Apache License to provide to third parties, for a fee or other consideration (including without limitation fees for hosting, consulting, implementation, or support services related to the Software), a product or service whose value derives, entirely or substantially, from the functionality of the Software. Any license notice or attribution required by the Apache License must also include this Commons Clause Restriction."
+### FAQ: MSP and Consulting Use
 
-For paid/professional use cases prohibited above, obtain a commercial license from Global Micro Solutions (Pty) Ltd: licensing@globalmicro.co.za
+**Q: Can an MSP or consultant use this tool in a paid engagement?**  
+**A:** It depends on how the tool is used:  
+- **Allowed:** If the tool is used internally by the end customer (e.g., installed in their tenant) and the consultant is simply assisting, this is generally acceptable.  
+- **Not allowed without a commercial licence:** If the MSP or consultant provides a managed service where the tool runs in their own environment (e.g., their tenant or infrastructure) or if the value of the service substantially derives from the tool’s functionality, this falls under the definition of “Sell” in the Commons Clause and requires a commercial licence.
+
+**Q: Why is this restricted?**  
+The Commons Clause removes the right to “Sell,” which includes providing a service for a fee where the value derives from the software. This ensures fair use and prevents competitors from monetising the tool without contributing back.
+
+**Q: How do I get a commercial licence?**  
+Contact Global Micro Solutions (Pty) Ltd at:  
+📧 licensing@globalmicro.co.za
 
 ## ⚠️ Warranty Disclaimer
 
-Distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the Apache License for the specific language governing permissions and limitations under the License.
+Distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. Please review the Apache-2.0 WITH Commons-Clause License for the specific language governing permissions and limitations under the License.
 
 ## Author
 
 **JJ Milner**  
 Blog: https://jjrmilner.substack.com
+Github: https://github.com/jjrmilner
 
 ## Contributing
 
